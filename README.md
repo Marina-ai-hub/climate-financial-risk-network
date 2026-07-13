@@ -16,13 +16,13 @@ The repository uses synthetic firm-bank and interbank liability networks. It doe
 - `outputs/analysis/`: Summary statistics, sensitivity results, and article tables for the reference calibration.
 - `outputs/metrics/`: Results of the sector-shock permutation diagnostic.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21341328.svg)](https://doi.org/10.5281/zenodo.21341328)
+
 ## Requirements
 
 Python 3.10 or later is recommended.
 
 Install dependencies with:
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21341328.svg)](https://doi.org/10.5281/zenodo.21341328)
 
 ```bash
 pip install -r requirements.txt.
