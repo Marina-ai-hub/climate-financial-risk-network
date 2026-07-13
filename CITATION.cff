@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Kabanova"
+  given-names: "Maryna"
+  orcid: "https://orcid.org/0009-0004-0983-0710"
+- family-names: "Kuznietsova"
+  given-names: "Nataliia"
+  orcid: "https://orcid.org/0000-0002-1662-1974"
+title: "Code and data for a climate-financial liability-network framework"
+version: 1.0.0
+url: "https://github.com/Marina-ai-hub/climate-financial-risk-network"
