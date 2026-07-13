@@ -1,0 +1,3 @@
+x,label,y,spearman_rho,ci_low,ci_high,n_rows,n_clusters,density_label,interbank_liability_scale
+firm_exposure_to_capital,Total firm exposure,target_loss_to_capital_ratio,0.3326918402171233,0.2924516376755567,0.3647665272527294,43200,18,p30,1.0
+shock_weighted_exposure_to_capital,Shock-weighted exposure,target_loss_to_capital_ratio,0.8646566852821927,0.8492484707328695,0.8808387741289662,43200,18,p30,1.0
