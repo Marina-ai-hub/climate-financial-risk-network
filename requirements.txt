@@ -1,0 +1,4 @@
+# main libraires
+matplotlib                -> matplotlib==3.9.2
+numpy                     -> numpy==1.26.0
+pandas                    -> pandas==2.2.2
