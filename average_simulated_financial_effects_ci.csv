@@ -1,0 +1,4 @@
+"metric","estimate","ci_low","ci_high","n_rows","n_clusters"
+"total_company_asset_loss","1701.027614","1654.485042","1745.559252","2160","18"
+"total_company_payment_shortfall","556.520051","539.5468939","574.9232966","2160","18"
+"total_bank_incoming_shortfall","556.935202","539.8106243","574.5123931","2160","18"
