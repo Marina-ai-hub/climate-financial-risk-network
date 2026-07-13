@@ -24,3 +24,5 @@ Install dependencies with:
 
 ```bash
 pip install -r requirements.txt.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21341328.svg)](https://doi.org/10.5281/zenodo.21341328)
