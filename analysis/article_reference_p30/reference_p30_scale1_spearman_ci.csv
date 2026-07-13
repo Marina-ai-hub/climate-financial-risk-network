@@ -1,5 +1,0 @@
-x,y,estimate,ci_low,ci_high,n_rows,n_clusters
-total_company_payment_shortfall,firm_to_bank_incoming_shortfall,1.0,0.9999999999999998,1.0,2160,18
-total_company_payment_shortfall,total_bank_incoming_shortfall,0.9999949011914733,0.9999655696492536,1.0,2160,18
-total_company_asset_loss,total_company_payment_shortfall,0.9864535921975321,0.9824329332497154,0.990860341481078,2160,18
-total_company_asset_loss,mean_loss_to_capital_ratio,0.9810069108502979,0.9737462848882524,0.9880442773750916,2160,18

@@ -1,7 +1,0 @@
-interbank_liability_scale,candidate_configurations,retained_configurations,retention_rate,excluded_configurations,excluded_firm_default,excluded_bank_payment_default,excluded_capital_breach,excluded_failed_bank,n_seeds
-0.0,80,80,1.0,0,0,0,0,0,20
-0.5,80,77,0.9625,3,0,3,0,3,20
-1.0,80,62,0.775,18,0,18,2,18,20
-1.5,80,37,0.4625,43,0,43,22,43,20
-2.0,80,12,0.15,68,0,68,44,68,20
-3.0,80,2,0.025,78,0,78,68,78,20
