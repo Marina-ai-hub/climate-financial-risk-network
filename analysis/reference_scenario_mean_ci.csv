@@ -1,0 +1,11 @@
+metric,estimate,ci_low,ci_high,n_rows,n_clusters
+total_company_asset_loss,1701.027614,1654.485042,1745.559252,2160,18
+total_company_payment_shortfall,556.520051,539.5468939,574.9232966,2160,18
+firm_to_bank_incoming_shortfall,556.520051,539.8094739,574.408036,2160,18
+bank_to_bank_incoming_shortfall,0.415150972,3.66E-14,1.148341052,2160,18
+total_bank_incoming_shortfall,556.935202,539.8106243,574.5123931,2160,18
+total_bank_payment_shortfall,0.415150972,0,1.148226646,2160,18
+mean_loss_to_capital_ratio,0.429328701,0.403843044,0.457216296,2160,18
+max_loss_to_capital_ratio,1.28761859,1.181244085,1.409500637,2160,18
+shocked_vulnerable_25_banks,8.756944444,8.410185185,9.104201389,2160,18
+shocked_vulnerable_50_banks,5.541203704,5.249976852,5.841678241,2160,18
