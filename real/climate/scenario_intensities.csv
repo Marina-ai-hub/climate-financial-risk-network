@@ -1,0 +1,6 @@
+scenario_name,transition_intensity,physical_intensity
+orderly_transition,0.5,0.0
+disorderly_transition,1.0,0.0
+severe_disorderly_transition,1.5,0.0
+acute_physical_risk,0.0,1.0
+combined_transition_physical,1.0,1.0

@@ -1,0 +1,8 @@
+sector,transition_weight,temp_weight,drought_weight,excess_precip_weight,wildfire_weight
+fossil_fuels,1.0,0.2,0.1,0.2,0.1
+utilities,0.8,0.6,0.5,0.4,0.3
+energy_intensive,0.8,0.3,0.2,0.2,0.1
+transportation,0.7,0.4,0.2,0.5,0.2
+buildings_real_estate,0.5,0.5,0.2,0.8,0.6
+agriculture,0.3,0.8,1.0,0.5,0.7
+other_services,0.1,0.2,0.1,0.2,0.1
