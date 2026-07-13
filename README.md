@@ -8,13 +8,13 @@ The repository uses synthetic firm-bank and interbank liability networks. It doe
 
 ## Repository structure
 
-- `src/`: Python scripts for network generation, clearing, article tables, sensitivity analysis, permutation diagnostics and figures.
-- `data/real/climate/`: processed country-level climate indicators and scenario shock inputs.
-- `data/synthetic_uniform_sector_distribution/`: synthetic network files generated under the uniform sector-distribution assumption.
-- `outputs/summary/`: archived scenario-level simulation summary.
-- `outputs/gnn/`: archived p30 bank-level synthetic dataset used for exposure diagnostics.
-- `outputs/analysis/`: reported article tables and reference-calibration outputs.
-- `outputs/metrics/`: sector-shock permutation diagnostic outputs.
+- `src/`: Python scripts for climate-shock construction, synthetic network generation, Eisenberg–Noe clearing, sensitivity analyses, the sector-shock permutation diagnostic, and the production of article tables and figures.
+- `data/real/climate/`: Processed country-level climate indicators and inputs used to construct the country-sector-scenario shock table.
+- `data/synthetic_uniform_sector_distribution.zip`: Compressed synthetic network data generated under the uniform sector-distribution assumption.
+- `outputs/summary/`: Scenario-level simulation outputs for the full parameter grid under the uniform sector-distribution assumption.
+- `outputs/gnn/`: Bank-level dataset for the reference calibration with interbank-liability scale 1.0 and density 0.30.
+- `outputs/analysis/`: Summary statistics, sensitivity results, and article tables for the reference calibration.
+- `outputs/metrics/`: Results of the sector-shock permutation diagnostic.
 
 ## Requirements
 
